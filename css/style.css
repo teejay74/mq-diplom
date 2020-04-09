@@ -629,8 +629,8 @@ h3 {
     margin-left: auto;
     margin-right: auto;
     max-width: 1600px;
-    padding-right: 40%;
-    padding-left: 1.5%;
+   padding-right: 960px;
+    padding-left: 40px;
   }
 
   .player-post {
@@ -741,8 +741,8 @@ h3 {
   }
 
   .player-title {
-    margin-right: 40%;
-    margin-left: 0;
+   
+    margin-left: 40px;
   }
 
   .athlets-post {

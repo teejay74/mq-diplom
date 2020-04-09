@@ -187,7 +187,7 @@ h3 {
   font-size: 22px;
 }
 
-.store-links a {
+.link-color {
   color: #ffffff;
   text-decoration: none;
 }
@@ -515,9 +515,7 @@ h3 {
   font-size: 23px;
 }
 
-.growth-block p {
-  color: #ffffff;
-}
+
 
 .be-active-picture {
   width: 100%;
@@ -562,7 +560,7 @@ h3 {
   border-top: 4px solid #8f7bc8;
 }
 
-.be-active-post h2 {
+.be-active-title {
   font-size: 28px;
 }
 
@@ -647,7 +645,7 @@ h3 {
     font-size: 80px;
   }
 
-  .be-active-post h2 {
+  .be-active-title {
     font-size: 80px;
   }
 
@@ -764,7 +762,7 @@ h3 {
     font-size: 80px;
   }
 
-  .be-active-post h2 {
+  .be-active-title {
     font-size: 80px;
   }
 

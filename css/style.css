@@ -402,13 +402,7 @@ h3 {
   font-size: 50px;
 }
 
-.athlets-post {
-
-  margin-left: 45%;
-}
-
-
-
+.athlets-post,
 .player-post {
   margin-left: 6.25%;
 }
@@ -590,11 +584,10 @@ h3 {
   .player-post {
     margin: 70px auto 40px;
     max-width: 1600px;
-    padding-right: 65%;
-    padding-left: 1.5%;
+    padding-left: 35px;
   }
 
-  .player-picture {
+  .player .athlets-picture {
     left: 55%;
     right: 90px;
     margin-right: 0;
@@ -635,7 +628,7 @@ h3 {
     margin-left: auto;
     margin-right: auto;
     max-width: 1600px;
-   padding-right: 960px;
+    padding-right: 800px;
     padding-left: 40px;
   }
 
@@ -747,12 +740,12 @@ h3 {
   }
 
   .player-title {
-   
-    margin-left: 40px;
+    margin-right: 400px;
+    margin-left: 0;
   }
 
   .athlets-post {
-    
+    margin-left: 45%;
     margin-top: 70px;
   }
 
@@ -844,7 +837,7 @@ h3 {
   text-align: center;
 }
 
-.footer-title span {
+.footer-title-down {
   display: block;
   text-transform: uppercase;
   color: #8379a7;
@@ -897,7 +890,7 @@ h3 {
     line-height: 90px;
   }
 
-  .footer-title span {
+  .footer-title-down {
     font-size: 30px;
     text-align: left;
     padding-left: 7px;
@@ -927,7 +920,7 @@ h3 {
     font-size: 80px;
   }
 
-  .footer-title span {
+  .footer-title-down {
     font-size: 36px;
   }
 

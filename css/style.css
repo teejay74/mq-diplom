@@ -402,7 +402,13 @@ h3 {
   font-size: 50px;
 }
 
-.athlets-post,
+.athlets-post {
+
+  margin-left: 45%;
+}
+
+
+
 .player-post {
   margin-left: 6.25%;
 }
@@ -746,7 +752,7 @@ h3 {
   }
 
   .athlets-post {
-    margin-left: 45%;
+    
     margin-top: 70px;
   }
 

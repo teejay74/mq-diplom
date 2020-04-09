@@ -834,7 +834,7 @@ h3 {
   margin-top: 98px;
 }
 
-.footer-title h3 {
+.footer-title-up {
   font-size: 32px;
   color: #ffffff;
   text-align: center;
@@ -888,7 +888,7 @@ h3 {
     margin-right: 40px;
   }
 
-  .footer-title h3 {
+  .footer-title-up {
     font-size: 80px;
     line-height: 90px;
   }
@@ -919,7 +919,7 @@ h3 {
     padding: 25px 13px;
   }
 
-  .footer-title h3 {
+  .footer-title-up {
     font-size: 80px;
   }
 

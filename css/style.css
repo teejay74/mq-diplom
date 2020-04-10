@@ -91,7 +91,7 @@ h3 {
 }
 
 .logo {
-  width: 41%;
+  width: 135px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -107,7 +107,7 @@ h3 {
 }
 
 .welcome-title {
-  max-width: 87.5%;
+  max-width: 280px;
   margin-left: auto;
   margin-right: auto;
   margin-top: 137px;
@@ -211,7 +211,7 @@ h3 {
   .welcome-title {
     margin-top: 295px;
     margin-bottom: 220px;
-    max-width: 97%;
+    max-width: 1550px;
   }
 
   .welcome-container {
@@ -257,7 +257,7 @@ h3 {
     flex-shrink: 0;
     flex-grow: 0;
     position: relative;
-    box-shadow: ;
+ 
   }
 
   .apple-link {
@@ -404,7 +404,7 @@ h3 {
 
 .athlets-post,
 .player-post {
-  margin-left: 6.25%;
+  margin-left: 20px;
 }
 
 .athlets,
@@ -454,8 +454,8 @@ h3 {
 }
 
 .item-text-title {
-  padding-right: 6.25%;
-  padding-left: 6.25%;
+  padding-right: 20px;
+  padding-left: 20px;
 }
 
 .number-item-text {
@@ -526,8 +526,8 @@ h3 {
 .be-active-post {
   position: relative;
   margin-top: 34px;
-  margin-left: 6.25%;
-  margin-right: 6.25%;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
 .be-active,
@@ -575,11 +575,18 @@ h3 {
     top: -40px;
   }
 
-  .athlets-post {
+  .athlets-container {
     margin: 70px auto 40px;
     max-width: 1600px;
-    padding-left: 45%;
+    
   }
+  
+  .athlets-post {
+    width: 50%;
+    margin-left: 50%;
+    padding-left: 50px;
+  }
+
 
   .player-post {
     margin: 70px auto 40px;
@@ -616,23 +623,25 @@ h3 {
     background-color: #ffffff;
   }
 
-  .item-text-title {
+  .block-container {
     margin-left: auto;
     margin-right: auto;
     max-width: 1600px;
-    padding-left: 45%;
-    padding-right: 1.5%;
+  }
+
+  .item-text-title {
+    width: 50%;
+    margin-left: 50%;
+    padding-left: 50px;
   }
 
   .player-title {
-    margin-left: auto;
-    margin-right: auto;
-    max-width: 1600px;
-    padding-right: 800px;
-    padding-left: 40px;
+    width: 50%;
+    margin-right: 50%;
+    margin-left: 0;
   }
 
-  .player-post {
+  .player-container {
     margin-top: 70px;
   }
 
@@ -690,8 +699,8 @@ h3 {
   .be-active-post {
     margin: 0;
     width: 50%;
-    padding-left: 6.5%;
-    padding-top: 8%;
+    padding-left: 100px;
+    padding-top: 100px;
   }
 
   p {
@@ -735,17 +744,19 @@ h3 {
     background-color: #ffffff;
   }
 
+
   .item-text-title {
-    margin-left: 40%;
+    padding-right: 30px;
+    padding-left: 340px;
   }
-
+  
   .player-title {
-    margin-right: 400px;
-    margin-left: 0;
+    padding-right: 340px;
+    padding-left: 30px;
   }
 
-  .athlets-post {
-    margin-left: 45%;
+  .athlets-container {
+    margin-left: 320px;
     margin-top: 70px;
   }
 
